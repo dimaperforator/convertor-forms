@@ -1,0 +1,3 @@
+customkinter
+python-docx
+reportlab
